@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Backgroumd = () => {
+const Background = () => {
   return (
     <>
     <div className='fixed  w-full h-screen '>
@@ -12,4 +12,4 @@ const Backgroumd = () => {
   )
 }
 
-export default Backgroumd 
+export default Background
