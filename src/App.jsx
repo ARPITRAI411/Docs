@@ -1,6 +1,6 @@
 import React from 'react'
-import Backgroumd  from './components/Backgroumd'
-import Foreground from './components/Foreground';
+import Backgroumd  from './Components/Backgroumd'
+import Foreground from './Components/Foreground';
 
 const App = () => {
   return (
